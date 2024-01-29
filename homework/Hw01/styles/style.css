@@ -1,0 +1,16 @@
+body {
+    background-color: darksalmon;
+}
+
+body {
+    font-family: 'Courier New', monospace;
+    color: darkblue;
+}
+#blurryImage {
+    filter: blur(9px);
+    cursor: pointer;
+}
+#unblurText {
+    cursor: pointer;
+    text-decoration: underline;
+}
